@@ -8,7 +8,7 @@ public class Trinnskatt {
 		int bruttoinntekt = Integer.parseInt(x);
 		
 		double sats= 0.00;
-		if (bruttoinntekt >= 0 && bruttoinntekt <= 16410);
+		if (bruttoinntekt >= 0 && bruttoinntekt <= 164100);
 		
 		sats= 0.93/100;
 		if (bruttoinntekt >= 164101 && bruttoinntekt >=230950);
